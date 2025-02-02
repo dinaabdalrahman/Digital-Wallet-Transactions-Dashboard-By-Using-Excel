@@ -24,8 +24,8 @@
 
 
 ### 1)  Total Paied Amount Loction&Payment Method(Line Chart)
- - #### Insights : 
-   - ##### ( This chart shows the relationship between Total paied amount and Date, asin the year 2023 the December month is the largest of paied amount and in 2024, the July month is the largest ).
+ - #### Insights :
+   ( This chart shows the relationship between Total paied amount and Date, asin the year 2023 the December month is the largest of paied amount and in 2024, the July month is the largest ).
 
 ### 2) Total Paied Amount Loction&Payment Method (Column Chart)
  - #### Insights : 
