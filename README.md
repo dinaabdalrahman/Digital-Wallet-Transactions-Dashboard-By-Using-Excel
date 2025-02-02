@@ -1,6 +1,6 @@
 # Digital Wallet Transaction Dashboard
-## overview
-#### This repository contains an interactive Digital Wallet Transaction Dashboard designed in  Excel to analyze and visualize transaction data from 2023 and 2024. The dashboard provides insights into user transactions, payment method,location,device type and more type of data,they helep owners to take decisions.
+## Overview
+####$ This repository contains an interactive Digital Wallet Transaction Dashboard designed in  Excel to analyze and visualize transaction data from 2023 and 2024. The dashboard provides insights into user transactions, payment method,location,device type and more type of data,they helep owners to take decisions.
 
 
 
@@ -10,8 +10,8 @@
 ## Features
 - #### Dynamic Slicers : 
     - ######  Filter data by year, month and location for general analysis.
+      
 - #### Key Metrics : 
-
     - Total Paid Amount: $24.7M
     - Average Paid Amount: $4,932K
     - Number of Transactions: 5K
@@ -46,7 +46,8 @@
 ## Recommendations
 
 
-- To increase the number of transactions they should Do the same thing that was done in the nearest month to the nearest year, which is March and June of the year 2024.
+- To increase the number of transactions they should Do the same thing that was done in the nearest month to the nearest year, which is 
+   March and June of the year 2024.
 - Provide certain products in large quantities in an area where there is a high use of the product.
 - Post offers for the best-selling products during the months with the highest sales, according to the popular time.
 - Adjust the cashback rate so that the product money after the sale is not less than the product money before the sale.
@@ -55,11 +56,11 @@
 
 ## Screenshot
 ##### Here’s a screenshot of the Digital Wallet Transaction Dashboard:
+  
+
+![Uploading Dashboard p1.PNG…]()
 
 
- 
-
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Contact
