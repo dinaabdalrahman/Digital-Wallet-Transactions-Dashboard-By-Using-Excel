@@ -1,6 +1,6 @@
 # Digital Wallet Transaction Dashboard
 ## Overview
-#### This repository contains an interactive Digital Wallet Transaction Dashboard designed in  Excel to analyze and visualize transaction data from 2023 and 2024. The dashboard provides insights into user transactions, payment method,location,device type and more type of data,they helep owners to take decisions.
+ This repository contains an interactive Digital Wallet Transaction Dashboard designed in  Excel to analyze and visualize transaction data from 2023 and 2024. The dashboard provides insights into user transactions, payment method,location,device type and more type of data,they helep owners to take decisions.
 
 
 
