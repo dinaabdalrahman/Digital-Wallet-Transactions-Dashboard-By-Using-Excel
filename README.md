@@ -1,6 +1,6 @@
 # Digital Wallet Transaction Dashboard
 ## Overview
-####$ This repository contains an interactive Digital Wallet Transaction Dashboard designed in  Excel to analyze and visualize transaction data from 2023 and 2024. The dashboard provides insights into user transactions, payment method,location,device type and more type of data,they helep owners to take decisions.
+#### This repository contains an interactive Digital Wallet Transaction Dashboard designed in  Excel to analyze and visualize transaction data from 2023 and 2024. The dashboard provides insights into user transactions, payment method,location,device type and more type of data,they helep owners to take decisions.
 
 
 
@@ -9,7 +9,7 @@
 
 ## Features
 - #### Dynamic Slicers : 
-    - ######  Filter data by year, month and location for general analysis.
+    - Filter data by year, month and location for general analysis.
       
 - #### Key Metrics : 
     - Total Paid Amount: $24.7M
@@ -29,19 +29,19 @@
 
 ### 2) Total Paied Amount Loction&Payment Method (Column Chart)
  - #### Insights : 
-   - ##### ( This chart shows the relationship between Total Paied amount, Location and Payment Method as the Urban and bank transfer contain the largest paied mount ).
+   ( This chart shows the relationship between Total Paied amount, Location and Payment Method as the Urban and bank transfer contain the largest paied mount ).
 ### 3) Top 5 Users By Loyalty Points (Clustred Chart)
  - #### Insights : 
-   - ##### ( This chart shows the relationship the top 5 Users and Loyalty points, as the users have the largest points in 2024 and in 2023, they are low).
+   ( This chart shows the relationship the top 5 Users and Loyalty points, as the users have the largest points in 2024 and in 2023, they are low).
 ### 4) Top 5 Users By Loyalty Points (Line Chart)
  - #### Insights : 
-   - ##### ( This chart shows the relationship Number of Transactions and Date as the December month whose Transactions is high in 2023 and mars in 2024).
+   ( This chart shows the relationship Number of Transactions and Date as the December month whose Transactions is high in 2023 and mars in 2024).
 ### 5) Total Paid Amount Payment Method (Doughnut Chart)
  - #### Insights : 
-   - ##### ( This chart shows the relationship total paied amount and payment methods, in this chart the bank transfer is the best model in two years).
+   ( This chart shows the relationship total paied amount and payment methods, in this chart the bank transfer is the best model in two years).
 ### 6) User Ratio For Each Device Type (Doughnut Chart)
  - #### Insights : 
-   - ##### ( This chart shows the relationship User and Device Type,that indicated the Device type (Android) is the most type).
+   ( This chart shows the relationship User and Device Type,that indicated the Device type (Android) is the most type).
 
 ## Recommendations
 
